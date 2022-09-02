@@ -4,7 +4,7 @@ public class Employee {
 	
 	public static void main(String[] args) {
 		
-		String employeeName="suresh";
+		String employeeName="suresh kumar";
 		int employeeAge=24;
 		int employeeIdNumber=103;
 		int employeeSalary=15000;
