@@ -3,7 +3,7 @@ package day1_java;
 public class Bike {
 	public static void main(String[] args) {
 		String bikeName="PULSAR";
-		String bikeModel="Ns200";
+		String bikeModel="Ns2000";
 		int bikePrice=160000;
 		String bikeColor="black";
 		String bikeNumber="TN 07 CQ1487";
