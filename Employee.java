@@ -5,9 +5,9 @@ public class Employee {
 	public static void main(String[] args) {
 		
 		String employeeName="suresh kumar";
-		int employeeAge=24;
-		int employeeIdNumber=103;
-		int employeeSalary=15000;
+		int employeeAge=30;
+		int employeeIdNumber=104;
+		int employeeSalary=150000;
 		boolean employeeIsMale=true;
 		long employeePhoneNumber=8122043456l;
 		
